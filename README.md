@@ -11,3 +11,4 @@ Para subir o seu projeto na nossa vitrine, você deve:
 1. Abrir um Pull Request da branch master do seu projeto para a branch master desse repositório
 1. Aguardar o nosso aceite da sua Pull Request!
 
+# Este projeto será arquivado!
